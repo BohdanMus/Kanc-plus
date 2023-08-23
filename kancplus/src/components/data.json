@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "title": "Ручка гелева KITE Преміум",
+    "img": "https://content1.rozetka.com.ua/goods/images/big/346301813.jpg",
+    "desc": "Високоякісна гелева ручка з комфортним тримачем та плавним письмом.",
+    "category": "Письмові прилади",
+    "price": "4.99"
+  },
+  {
+    "id": 2,
+    "title": "Блокнот KITE Творчість",
+    "img": "https://monakoland.com.ua/monako-laravel/images/products/%D0%9C%D0%9E%D0%9D023621-01.jpg",
+    "desc": "Записуйте свої ідеї та нотатки в цьому зручному блокноті з яскравим дизайном.",
+    "category": "Паперова продукція",
+    "price": "6.50"
+  },
+  {
+    "id": 3,
+    "title": "Кольорові олівці KITE Радуга",
+    "img": "https://mykite.com.ua/image/cache/abf64595038d3d759884f4d137528cab.jpg",
+    "desc": "Набір яскравих кольорових олівців для творчих робіт та розмальовок.",
+    "category": "Малювання",
+    "price": "8.75"
+  },
+  {
+    "id": 4,
+    "title": "Рюкзак KITE",
+    "img": "https://hotline.ua/img/tx/391/3913404675.jpg",
+    "desc": "Прозора лінійка для точних вимірів та креслень у школі та офісі.",
+    "category": "Письмові прилади",
+    "price": "2000"
+  },
+  {
+    "id": 5,
+    "title": "Папка для документів KITE Органайзер",
+    "img": "https://kancelyaria.com.ua/files/resized/products/aekck_K21-357-04_1.490x490.jpg",
+    "desc": "Зберігайте важливі документи у цій зручній папці з різними секціями.",
+    "category": "Органайзери",
+    "price": "9.25"
+  },
+  {
+    "id": 6,
+    "title": "Олівці чернільні KITE Чорнило",
+    "img": "https://mykite.com.ua/image/cache/6b67a32c2efeae2c6e6eea37a02903dc.jpg",
+    "desc": "Чернільні олівці з високоякісним чорнилом для письма та малювання.",
+    "category": "Малювання",
+    "price": "3.50"
+  },
+  {
+    "id": 7,
+    "title": "Закладки для книг KITE Легкість",
+    "img": "https://content.rozetka.com.ua/goods/images/big_tile/313919179.jpg",
+    "desc": "Зручні закладки з ніжним дизайном для виділення важливих моментів у книгах.",
+    "category": "Паперова продукція",
+    "price": "1.75"
+  },
+  {
+    "id": 8,
+    "title": "Гумка KITE",
+    "img": "https://knigoland.com.ua/upload/iblock/38d/cqnkdr1uq4gmzqkm5hwxobvi9sfxckuk/Gymka-kol-assortii-Jolliers-_4251458742943_-_341250_.jpg",
+    "desc": "Набір кольорових скрепок для організації документів та паперів.",
+    "category": "Гумки",
+    "price": "2.25"
+  },
+  {
+    "id": 9,
+    "title": "Коректор KITE Чистота",
+    "img": "https://mykite.com.ua/image/cache/1f6392ce525c19542e4fa525e882517f.jpg",
+    "desc": "Коректор для точних поправок тексту та виправлень у роботі.",
+    "category": "Письмові прилади",
+    "price": "3.99"
+  },
+  {
+    "id": 10,
+    "title": "Олівці графітні KITE Професіонал",
+    "img": "https://mykite.com.ua/image/cache/159786c1cd8ac4c598c47b1a88348a7c.jpg",
+    "desc": "Набір графітних олівців для малювання та письма в офісі та школі.",
+    "category": "Малювання",
+    "price": "5.50"
+  },
+  {
+    "id": 11,
+    "title": "Настільна підставка KITE Комфорт",
+    "img": "https://mykite.com.ua/image/cache/5aeeca929b399fc57a065388d2cf2563.jpg",
+    "desc": "Зручна підставка для столу з підтримкою для телефону та різних аксесуарів.",
+    "category": "Органайзери",
+    "price": "12.90"
+  },
+  {
+    "id": 12,
+    "title": "Папір для нотаток KITE Записи",
+    "img": "https://www.officetime.com.ua/files/2021/07_21/18_23/u_files_store_20_233758.jpg",
+    "desc": "Блок паперу для записів та нотаток у зручному форматі.",
+    "category": "Паперова продукція",
+    "price": "3.25"
+  },
+  {
+    "id": 13,
+    "title": "Маркери перманентні KITE Твердість",
+    "img": "https://images.prom.ua/4489239709_w640_h640_4489239709.jpg",
+    "desc": "Перманентні маркери для позначень на різних поверхнях.",
+    "category": "Письмові прилади",
+    "price": "7.75"
+  },
+  {
+    "id": 14,
+    "title": "Степлер KITE Стабільність",
+    "img": "https://revatorg.com.ua/images/product_images/popup_images/6280_0.jpg",
+    "desc": "Степлер з антиковзаючим покриттям та набором скоб.",
+    "category": "Органайзери",
+    "price": "14.99"
+  },
+  {
+    "id": 15,
+    "title": "Ручка кулькова KITE Зручність",
+    "img": "https://mykite.com.ua/image/cache/156aa5b2da9f894b84b964d6470cdce9.jpg",
+    "desc": "Зручна кулькова ручка для повсякденного використання.",
+    "category": "Письмові прилади",
+    "price": "2.50"
+  },
+  {
+    "id": 16,
+    "title": "Лінійка з компасом KITE Творчість",
+    "img": "https://kancklas.com.ua/upload/iblock/043/043c54aa3c6f13138714370a6ce43fc4.jpg",
+    "desc": "Лінійка зі вбудованим компасом для точних креслень та малюнків.",
+    "category": "Малювання",
+    "price": "6.90"
+  },
+  {
+    "id": 17,
+    "title": "Пенал KITE Органайзер",
+    "img": "https://mykite.com.ua/image/cache/ae4216e80761b0317b24ae939640f392.jpg",
+    "desc": "Просторий пенал для зберігання ручок, олівців та інших канцелярських приладів.",
+    "category": "Органайзери",
+    "price": "5.25"
+  },
+  {
+    "id": 18,
+    "title": "Спіральний блокнот KITE Ідеї",
+    "img": "https://corrector.com.ua/image/cache/catalog/917124d7f35c11eb892d000c299dbc87_6f4df82addb311ec8409000c2971a9a3-420x340.jpg",
+    "desc": "Блокнот зі спіраллю для фіксації ваших творчих ідей та записів.",
+    "category": "Паперова продукція",
+    "price": "7.99"
+  },
+  {
+    "id": 19,
+    "title": "Папір для креслення KITE Організація",
+    "img": "https://content1.rozetka.com.ua/goods/images/big_tile/250671011.jpg",
+    "desc": "Спеціальний папір для використання у папках для підшивки.",
+    "category": "Паперова продукція",
+    "price": "4.50"
+  },
+  {
+    "id": 21,
+    "title": "Рюкзак KITE",
+    "img": "https://mykite.com.ua/image/cache/0e1a5aa67674e62ba64e03288b71d906.jpg",
+    "desc": "lorem ipsum dolor sit amet, consectetur",
+    "category": "Рюкзаки",
+    "price": "2500"
+  },
+  {
+    "id": 22,
+    "title": "Рюкзак KITE",
+    "img": "https://bi.ua/uploaded-images/products/size_400/575104_1.jpg",
+    "desc": "lorem ipsum dolor sit amet, consectetur",
+    "category": "Рюкзаки",
+    "price": "2500"
+  },
+  {
+    "id": 23,
+    "title": "Рюкзак KITE",
+    "img": "https://cdn.27.ua/799/91/47/6656327_1.jpeg",
+    "desc": "lorem ipsum dolor sit amet, consectetur",
+    "category": "Рюкзаки",
+    "price": "2500"
+  },
+  {
+    "id": 24,
+    "title": "Рюкзак KITE",
+    "img": "https://bi.ua/uploaded-images/products/size_400/575088_1.jpg",
+    "desc": "lorem ipsum dolor sit amet, consectetur",
+    "category": "Рюкзаки",
+    "price": "2500"
+  },
+  {
+    "id": 25,
+    "title": "Рюкзак KITE",
+    "img": "https://mykite.com.ua/image/cache/d0c94aadd6de30db6e18e188adcabf26.jpg",
+    "desc": "lorem ipsum dolor sit amet, consectetur",
+    "category": "Рюкзаки",
+    "price": "2500"
+  },
+  {
+    "id": 44,
+    "title": "Рюкзак KITE",
+    "img": "https://mykite.com.ua/image/cache/f64a5c043294f27acdbefcbb5d1d02bd.jpg",
+    "desc": "lorem ipsum dolor sit amet, consectetur",
+    "category": "Рюкзаки",
+    "price": "2500"
+  },
+  {
+    "id": 43,
+    "title": "Рюкзак KITE",
+    "img": "https://hotline.ua/img/tx/391/3913404675.jpg",
+    "desc": "Прозора лінійка для точних вимірів та креслень у школі та офісі.",
+    "category": "Письмові прилади",
+    "price": "2000"
+  },
+  {
+    "id": 41,
+    "title": "Маркери перманентні KITE Твердість",
+    "img": "https://images.prom.ua/4489239709_w640_h640_4489239709.jpg",
+    "desc": "Перманентні маркери для позначень на різних поверхнях.",
+    "category": "Письмові прилади",
+    "price": "7.75"
+  },
+  {
+    "id": 45,
+    "title": "Степлер KITE Стабільність",
+    "img": "https://revatorg.com.ua/images/product_images/popup_images/6280_0.jpg",
+    "desc": "Степлер з антиковзаючим покриттям та набором скоб.",
+    "category": "Органайзери",
+    "price": "14.99"
+  }
+]
