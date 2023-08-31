@@ -1,23 +1,33 @@
 import { styled } from "styled-components";
 
+export const FullItem = styled.div`
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rbg(0, 0, 0, 0.8);
+  z-index: 9999;
+  overflow: auto;
+`;
+
+export const ModalItem = styled.div`
+  width: 600px;
+  position: relative;
+  margin: 10px auto;
+  padding: 40px 30px;
+  background: #fff;
+  border-radius: 16px;
+`;
 export const CardGoods = styled.div`
   position: relative;
   padding: 20px;
-  width: 20%;
-  margin-bottom: 50px;
   border: grey solid 2px;
   border-radius: 16px;
   overflow: hidden;
-  transition: transform 400ms ease;
-  &:hover,
-  &:focus {
-    transform: scale(1.05);
-    /* cursor: pointer; */
-  }
   h2,
   p {
     margin: 10px 20px;
-    /* font-size: 20px; */
     color: #333;
   }
   b {
@@ -28,7 +38,6 @@ export const CardGoods = styled.div`
 
 export const ImgCard = styled.img`
   width: 100%;
-  border-radius: 16px 16px 0px 0px;
 `;
 
 export const AddToCard = styled.div`
