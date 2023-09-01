@@ -42,16 +42,16 @@ const Header = (props) => {
           <ItemNav>Про нас</ItemNav>
           <ItemNav>Контакти</ItemNav>
           <ItemNav>Кабінет</ItemNav>
+          <Svg
+            onClick={() => setcartOpen((cartOpen = !cartOpen))}
+            className={`shop-cart-button ${cartOpen && "active"}`}
+          />
+          {cartOpen && (
+            <div className="shop-cart">
+              {props.orders.length > 0 ? showOrders(props) : showNothing()}
+            </div>
+          )}
         </List>
-        <Svg
-          onClick={() => setcartOpen((cartOpen = !cartOpen))}
-          className={`shop-cart-button ${cartOpen && "active"}`}
-        />
-        {cartOpen && (
-          <div className="shop-cart">
-            {props.orders.length > 0 ? showOrders(props) : showNothing()}
-          </div>
-        )}
       </Nav>
       <Presentation></Presentation>
     </header>

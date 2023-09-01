@@ -47,7 +47,7 @@ header {
 .shop-cart {
   position: absolute;
   border-radius: 16px;
-  top: 30px;
+  top: 100px;
   padding: 20px;
   padding-bottom: 0;
   right: 0;
@@ -55,5 +55,5 @@ header {
   background: #fafafa;
   -webkit-box-shadow: 4px 5px 15px -7px #606060;
   box-shadow: 4px 5px 15px -7px #606060;
-  z-index: 1000;
+  z-index: 2000;
 }

@@ -7,9 +7,9 @@ export const Wrapper = styled.div`
   margin: 50px auto;
 `;
 export const Nav = styled.div`
-  /* display: flex; */
-  /* justify-content: space-between; */
-  /* align-items: center; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 `;
 export const Presentation = styled.div`
   margin: 50px 0;
@@ -23,7 +23,9 @@ export const Presentation = styled.div`
 `;
 
 export const List = styled.ul`
-  float: right;
+  /* float: right; */
+  align-items: center;
+  display: flex;
 `;
 
 export const ItemNav = styled.li`
