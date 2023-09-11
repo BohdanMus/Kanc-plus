@@ -37,7 +37,7 @@ const Header = (props) => {
   return (
     <header>
       <Nav>
-        <img src={mySvg} alt="Kanc Plus" width={120} height={120} />
+        <img src={mySvg} alt="Kanc Plus" width={100} height={100} />
         <List>
           <ItemNav>Про нас</ItemNav>
           <ItemNav>Контакти</ItemNav>

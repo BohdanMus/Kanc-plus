@@ -12,9 +12,9 @@ export const Nav = styled.div`
   align-items: center;
 `;
 export const Presentation = styled.div`
-  margin: 50px 0;
+  margin: 40px 0;
   background-image: url(${banner});
-  width: 100%;
+  /* width: 100%; */
   height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
